@@ -1,2 +1,2 @@
 # node_blog
-node blog
+##node编写博客平台
